@@ -1,0 +1,28 @@
+export const GET_PAPERS = "GET_PAPERS"
+export const GET_PAPER = "GET_PAPER"
+export const PUT_PAPERS = "PUT_PAPERS"
+export const DELETE_PAPERS = "DELETE_PAPERS"
+export const ADD_PAPERS = "ADD_PAPERS"
+export const SEARCH_PAPERS = "SEARCH_PAPERS"
+
+export const GET_ERRORS = "GET_ERRORS"
+
+export const CREATE_MESSAGES = "CREATE_MESSAGES"
+
+
+export const USER_LOADING = "USER_LOADING"
+export const USER_LOADED = "USER_LOADED"
+export const AUTH_ERROR = "AUTH_ERROR"
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS"
+export const LOGOUT_SUCCESS = "LOGOUT_SUCCESS"
+export const LOGIN_FAIL = "LOGIN_FAIL"
+
+export const PASSWORD_RESET = "RESET_PASSWORD"
+export const RESET_FAIL = "RESET_FAIL"
+export const PASSWORD_RESET_CONFIRM = "PASSWORD_RESET_CONFIRM"
+
+export const REGISTER_SUCCESS = "REGISTER_SUCCESS"
+export const REGISTER_FAIL = "REGISTER_FAIL"
+
+export const GET_PROFILE = "GET_PROFILE"

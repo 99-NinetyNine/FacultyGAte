@@ -1,0 +1,66 @@
+
+/* body {
+    background-color: green;
+} */
+
+.navbar-nav .nav-item a.nav-link:hover {
+    color: rgb(22, 150, 255);
+}
+
+
+.form-group > button.btn-primary:hover {
+    color: rgb(22, 150, 255);
+    background: white !important;
+    /* height: 50px; */
+    /* width: 100px; */
+    transition: 0.7s;
+}
+
+.form-group label {
+    margin: 5px 0px 5px;
+}
+
+.card .container {
+    border-radius: 50px;
+    box-shadow: 5px, 20px ;
+    border-color: rgb(22, 150, 255);
+}
+
+.form-group > label {
+    color: rgb(22, 150, 255);
+}
+
+
+
+/* ----- Paper Search ------- */
+
+.input-group-btn button:hover {
+    color: rgb(22, 150, 255);
+    background: white !important;
+    transition: 0.7s;
+}
+
+form .input-group {
+    padding: 10px 0 10px;
+}
+
+
+
+td {
+    width: 5px;
+}
+
+/* table {
+    margin: 10px 0 0px;
+    padding-bottom: 50px;
+} */
+
+.text-right button.btn-primary:hover {
+    color: rgb(22, 150, 255);
+    background: white !important;
+    /* width: 100px; */
+    transition: 0.7s;
+}
+
+
+

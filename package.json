@@ -1,0 +1,42 @@
+{
+    "name": "proj-fpms",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "webpack --mode development --watch ./proj_fpms/frontend/src/index.js --output-path ./proj_fpms/frontend/static/frontend/",
+        "build": "webpack --mode production ./proj_fpms/frontend/src/index.js --output-path ./proj_fpms/frontend/static/frontend/"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/core": "^7.14.6",
+        "@babel/preset-env": "^7.14.7",
+        "@babel/preset-react": "^7.14.5",
+        "@orcid/bibtex-parse-js": "0.0.25",
+        "babel-loader": "^8.2.2",
+        "babel-plugin-transform-class-properties": "^6.24.1",
+        "webpack": "^4.29.0",
+        "webpack-cli": "^3.2.1"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "bootstrap": "^5.0.2",
+        "file-saver": "^2.0.5",
+        "google-search-results-nodejs": "^2.0.1",
+        "jquery": "^3.6.0",
+        "prop-types": "^15.7.2",
+        "react": "^17.0.2",
+        "react-alert": "^7.0.3",
+        "react-alert-template-basic": "^1.0.2",
+        "react-bootstrap": "^1.6.1",
+        "react-dom": "^17.0.2",
+        "react-redux": "^7.2.4",
+        "react-router-dom": "^5.2.0",
+        "react-transition-group": "^4.4.2",
+        "redux": "^4.1.0",
+        "redux-devtools-extension": "^2.13.9",
+        "redux-thunk": "^2.3.0",
+        "xlsx": "^0.17.0"
+    }
+}
