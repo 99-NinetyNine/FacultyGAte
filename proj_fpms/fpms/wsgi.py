@@ -11,11 +11,10 @@ import os
 import sys
 from django.core.wsgi import get_wsgi_application
 
-sys.path.append("/home/FacultyGAte/proj_fpms/fpms")
+sys.path.append('/home/FacultyGAte/proj_fpms/fpms')
+sys.path.append('/home/FacultyGAte/venv/Lib/site-packages')
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "fpms.settings")
 
-
-os.environ['DJANGO_SETTINGS_MODULE'] = 'fpms.settings'
-
-#os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fpms.settings')
+from django.core.wsgi import get_wsgi_application
 
 application = get_wsgi_application()
