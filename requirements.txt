@@ -3,7 +3,7 @@ django-cors-headers
 django-filter
 django-rest-knox
 django-webpack-loader
-djangorestframework=
+djangorestframework
 idna
 oauthlib
 Pillow
