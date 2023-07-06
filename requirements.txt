@@ -14,3 +14,4 @@ six
 sqlparse
 stripe
 urllib3
+gunicorn
