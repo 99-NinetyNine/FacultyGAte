@@ -19,3 +19,5 @@ os.environ['DJANGO_SETTINGS_MODULE'] = 'fpms.settings'
 #os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'fpms.settings')
 
 application = get_wsgi_application()
+if __name__ == "__main__":
+    application.run()
