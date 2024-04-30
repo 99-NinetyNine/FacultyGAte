@@ -5,9 +5,9 @@ The Faculty Publication Management System (FPMS) serves as a centralized platfor
 
 ## FacultyGAte Documentation
 
-- **Use Case Diagram:** [Download](https://github.com/99-NinetyNine/FacultyGAte/blob/master/Use%20case%20and%20Data%20flow%20Diagram.pdf)
-- **User Documentation:** [Download](https://github.com/99-NinetyNine/FacultyGAte/blob/master/User%20Documentation.pdf)
-- **Database Schema:** [Download](https://github.com/99-NinetyNine/FacultyGAte/blob/master/dbms.pdf)
+- **Use Case Diagram:** [View](https://github.com/99-NinetyNine/FacultyGAte/blob/master/Use%20case%20and%20Data%20flow%20Diagram.pdf)
+- **User Documentation:** [View](https://github.com/99-NinetyNine/FacultyGAte/blob/master/User%20Documentation.pdf)
+- **Database Schema:** [View](https://github.com/99-NinetyNine/FacultyGAte/blob/master/dbms.pdf)
 
 ## Installation 
 It is better to clear the pycache files(if any present) before running the following commands.  
