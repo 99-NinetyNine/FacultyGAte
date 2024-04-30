@@ -1,5 +1,14 @@
 # REST-REACT-FPMS (Publication Management System)  
 
+## Abstract 
+The Faculty Publication Management System (FPMS) serves as a centralized platform for managing faculty publications. Default users have access to viewing and searching papers, as well as exporting them in MLA, APA, IEEE, or BibTeX formats. They can also identify paper authors. Faculty members, on the other hand, possess additional privileges such as adding, editing, and deleting papers, as well as adding peers. Establishing centralized repositories for faculty publications facilitates easy storage, management, and retrieval of papers. Moreover, it simplifies the process of citing these papers.
+
+## FacultyGAte Documentation
+
+- **Use Case Diagram:** [Download](https://github.com/99-NinetyNine/FacultyGAte/blob/master/Use%20case%20and%20Data%20flow%20Diagram.pdf)
+- **User Documentation:** [Download](https://github.com/99-NinetyNine/FacultyGAte/blob/master/User%20Documentation.pdf)
+- **Database Schema:** [Download](https://github.com/99-NinetyNine/FacultyGAte/blob/master/dbms.pdf)
+
 ## Installation 
 It is better to clear the pycache files(if any present) before running the following commands.  
  ```
